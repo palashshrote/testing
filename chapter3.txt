@@ -1,1 +1,3 @@
-It was the spring of hope, it was the winter of despair!
+Frontend: html, css, js, angular, typescript
+
+Backend: java, nodejs, .net
